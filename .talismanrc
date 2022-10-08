@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: .idea/uiDesigner.xml
+  checksum: 18be3885953534e90388d323127b1e8a412d666d9fe4c4b2f315c589933b5f67
+- filename: src/com/z/part1/lesson4/AccountBase.java
+  checksum: 1df9ebfe45d1e71053c79f82a7a340939ee6df331557017b1664c9549cd3685b
+version: "1.0"
